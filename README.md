@@ -30,6 +30,6 @@ Atualmente, meu foco está em Java, Programação Orientada a Objetos, Spring Bo
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedora Back-end Júnior e continuar evoluindo através de projetos práticos.
+Atuar como Desenvolvedora Back-end Júnior e continuar evoluindo através de projetos.
 
 📍 Campina Grande - PB

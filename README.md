@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou a Victorya 👋
 
-<!--
-**victorya7/victorya7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Back-end Júnior em construção
 
-Here are some ideas to get you started:
+Sou formada em Análise e Desenvolvimento de Sistemas e estou construindo minha carreira no desenvolvimento back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, meu foco está em Java, Programação Orientada a Objetos, Spring Boot, SQL e Git/GitHub, desenvolvendo projetos práticos para transformar meus estudos em aplicações reais.
+
+## 🚀 Atualmente estudando
+
+- Java
+- Programação Orientada a Objetos
+- Spring Boot
+- SQL
+- Git e GitHub
+
+## 🛠️ Tecnologias
+
+☕ Java  
+🌱 Spring Boot  
+🗄️ SQL  
+🔧 Git/GitHub
+
+## 📚 Projetos
+
+- 🏦 Sistema Bancário em Java
+- 👤 Sistema de Cadastro
+- 🌱 API REST com Spring Boot
+- 🗄️ API com Banco de Dados
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedora Back-end Júnior e continuar evoluindo através de projetos práticos.
+
+📍 Campina Grande - PB

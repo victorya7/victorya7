@@ -24,9 +24,7 @@ Atualmente, meu foco está em Java, Programação Orientada a Objetos, Spring Bo
 ## 📚 Projetos
 
 - 🏦 Sistema Bancário em Java
-- 👤 Sistema de Cadastro
-- 🌱 API REST com Spring Boot
-- 🗄️ API com Banco de Dados
+  
 
 ## 🎯 Objetivo
 
